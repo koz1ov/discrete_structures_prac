@@ -1,3 +1,5 @@
+# предсказывает следующие 5 значений из выходной последовательности и рисует график
+# запуск : "python3 pred_next_values.py test.txt"
 import numpy as np
 import sys
 import matplotlib.pyplot as plt

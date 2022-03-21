@@ -1,3 +1,5 @@
+# принимает решение о продаже или покупке по последним 50 значениям из последовательности
+# запуск: "python3 get_decision.py test.txt"
 import numpy as np
 import os
 import sys
